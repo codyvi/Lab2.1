@@ -1,3 +1,59 @@
 body{
     background: #b3ffff;
+    font-size: 16px;
+}
+
+#name{
+    font-family: Impact, Charcoal, sans-serif;
+    font-weight: lighter;
+}
+
+#cabeza{
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    background: #e6ffe6;
+}
+
+#lenguajes{
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    background: #e6e6ff;
+    width: 33.3%;
+}
+
+#other{
+    position:absolute; 
+    left:1200px; 
+    top:485px;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    background: #e6e6ff;
+    width: 33.3%;
+}
+
+#educacion{
+    background: #ffe6e6;
+}
+
+section{
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+}
+
+#tskills{
+    border-width: 0px;
+    border-color: black;
+    border-style: hidden;
+}
+
+#tp{
+    background: #ffffcc;
+}
+
+#je{
+    background: #e4cad9;
 }
